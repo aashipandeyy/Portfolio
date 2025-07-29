@@ -12,7 +12,7 @@ HTML
 Tailwind CSS
 
 Live Demo
-portfolio-aashipandey.netlify.app
+[portfolio-aashipandey.netlify.app](https://portfolio-aashipandey.netlify.app/)
 
 Setup Instructions
 ```
