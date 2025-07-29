@@ -144,10 +144,11 @@ a{
 }
 .user{
     padding: 2rem;
-    animation: yolo 2s ease-in-out 0s infinite alternate;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.587);
+    /* animation: yolo 2s ease-in-out 0s infinite alternate; */
     z-index: -1;
 }
-@keyframes yolo{
+/* @keyframes yolo{
     from{
         transform: scale(1);
         box-shadow: 3px 3px 10px black;
@@ -157,8 +158,8 @@ a{
         transform: scale(1.1);
         filter:grayscale(1);
     }
-}
-.icon-dots{
+} */
+/* .icon-dots{
     z-index: 1;
     bottom:-1rem;
     right:0;
@@ -229,7 +230,8 @@ a{
         top:3%;
         left:48%;
     }
-}
+} */
+
 #projects{
     background-color: rgb(231,231,231);
     /* margin-top: 4rem; */
